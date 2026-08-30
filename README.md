@@ -15,8 +15,8 @@
 
 | Проект | Описание | Технологии |
 | :--- | :--- | :--- |
-| [`GameChat`](https://github.com/escape-re/Portfolio/tree/diplom(2025)) | Игровой мессенджер с клиент-серверной архитектурой. Дипломный проект (2025). Работает в реальном времени через TCP/IP. | C#, WCF, WinForms, SQL Server |
-| [`ApexBliss`](https://github.com/escape-re/Portfolio/tree/ComputerClub) | Система управления компьютерным клубом. DI + Repository Pattern + Dapper. | C#, Dapper, SQL Server, DI |
+| [`GameChat`](https://github.com/Escape-projects/GameChat) | Игровой мессенджер с клиент-серверной архитектурой. Дипломный проект (2025). Работает в реальном времени через TCP/IP. | C#, WCF, WinForms, SQL Server |
+| [`ApexBliss`]() | Система управления компьютерным клубом. DI + Repository Pattern + Dapper. | C#, Dapper, SQL Server, DI |
 | *Скоро здесь будут новые проекты* | ... | ... |
 
 ---
