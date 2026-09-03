@@ -26,7 +26,6 @@
 - **GitHub:** [escape-re](https://github.com/escape-re)
 - **Telegram:** [@escape_137](https://t.me/escape_137)
 - **Email:** Denny2002@list.ru
-- **HH.ru:** [резюме](https://kamyshin.hh.ru/resume/46e9e869ff0cdfaedd0039ed1f687478514333)
 
 ---
 
